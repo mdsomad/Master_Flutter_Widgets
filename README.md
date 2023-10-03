@@ -1,16 +1,30 @@
-# master_flutter
+# Master flutter
 
-A new Flutter project.
+## App Ui Preview
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<table>
+  
+  
+<tr>                    
+   
+   <th> First Screen View</th>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</tr>
+  
+  
+  
+  
+<tr>
+
+<td>
+
+<img src="https://github.com/mdsomad/Master_Flutter_Widgets/assets/103892160/b663e2dc-63cf-4b27-b281-4df6b4b76f6a"  width="300"/>
+
+</td>
+
+
+</tr>
+</table>

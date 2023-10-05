@@ -55,7 +55,5 @@
 </tr>
 </table>
 
-![Screenshot_1696519718](https://github.com/mdsomad/Master_Flutter_Widgets/assets/103892160/023fd460-ef88-4d74-98a3-bc070fde1e09)
 
-![Screenshot_1696519735](https://github.com/mdsomad/Master_Flutter_Widgets/assets/103892160/e8a143e0-f770-49dd-a396-20685892a723)
 

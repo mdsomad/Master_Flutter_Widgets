@@ -1,5 +1,11 @@
 # Master flutter
 
+
+
+First Add This Package -- > quick_actions
+
+
+
 ## App Ui Preview
 
 
@@ -9,7 +15,10 @@
   
 <tr>                    
    
-   <th> First Screen View</th>
+   <th> Quick Actions Option Show View</th>
+   <th> Home Screen View</th>
+   <th> Setting Screen View</th>
+   <th> Help Screen View</th>
 
 
 </tr>
@@ -21,7 +30,22 @@
 
 <td>
 
-<img src="https://github.com/mdsomad/Master_Flutter_Widgets/assets/103892160/b663e2dc-63cf-4b27-b281-4df6b4b76f6a"  width="300"/>
+<img src=""  width="270"/>
+
+</td>
+<td>
+
+<img src=""  width="270"/>
+
+</td>
+<td>
+
+<img src=""  width="270"/>
+
+</td>
+<td>
+
+<img src=""  width="270"/>
 
 </td>
 
